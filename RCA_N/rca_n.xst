@@ -1,0 +1,5 @@
+set -tmpdir "E:/035/RCA_N/xst/projnav.tmp"
+set -xsthdpdir "E:/035/RCA_N/xst"
+elaborate
+-ifn rca_n.prj
+-ifmt mixed

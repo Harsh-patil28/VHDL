@@ -1,0 +1,10 @@
+Command line:
+   test_rca_n_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50239
+
+Thu Jun 08 12:35:32 2023
+
+
+ Elaboration Time: 0.03125 sec

@@ -1,0 +1,35 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/035/RCA_N/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.81 secs
+ 
+--> Parameter xsthdpdir set to E:/035/RCA_N/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.81 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "rca_n.v" in library work
+Module <rca_n> compiled
+Module <FA> compiled
+ERROR:HDLCompilers:28 - "rca_n.v" line 34 'n' has not been declared
+ERROR:HDLCompilers:28 - "rca_n.v" line 36 'n' has not been declared
+Module <test_rca_n> compiled
+ERROR:HDLCompilers:26 - "rca_n.v" line 48 expecting 'endmodule', found 'EOF'
+Analysis of file <"rca_n.prj"> failed.
+--> 
+
+Total memory usage is 4468112 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/035/RCA_N/test_rca_n_isim_beh.exe" -prj "E:/035/RCA_N/test_rca_n_beh.prj" "work.test_rca_n" "work.glbl" 

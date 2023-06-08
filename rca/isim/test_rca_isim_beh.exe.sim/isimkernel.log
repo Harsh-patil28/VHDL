@@ -1,0 +1,29 @@
+Command line:
+   test_rca_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52219
+
+Sat Jun 03 13:23:53 2023
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5149.88 Meg
+
+ Total Signals          : 54
+ Total Nets             : 42
+ Total Signal Drivers   : 28
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 30
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 130
+Total Line Count : 20
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4992.6 Meg
+
+Sat Jun 03 13:27:10 2023
+
