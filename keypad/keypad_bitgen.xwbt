@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\035\keypad\keypad.ncd
+OUTFILE=E:\035\keypad\keypad.bit
+FAMILY=Spartan3
+PART=xc3s400-5pq208
+WORKINGDIR=E:\035\keypad
+LICENSE=WebPack
+USER_INFO=211111044_0_0_816

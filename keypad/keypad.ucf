@@ -1,0 +1,27 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "disp[7]" LOC = P19;
+NET "disp[6]" LOC = P18;
+NET "disp[5]" LOC = P16;
+NET "disp[4]" LOC = P15;
+NET "disp[3]" LOC = P13;
+NET "disp[2]" LOC = P12;
+NET "disp[1]" LOC = P11;
+NET "disp[0]" LOC = P10;
+NET "en[1]" LOC = P2;
+NET "en[2]" LOC = P3;
+NET "en[3]" LOC = P7;
+NET "en[4]" LOC = P9;
+NET "en[5]" LOC = P166;
+NET "en[6]" LOC = P167;
+NET "row[3]" LOC = P138;
+NET "row[2]" LOC = P139;
+NET "row[1]" LOC = P140;
+NET "row[0]" LOC = P141;
+NET "clk" LOC = P79;
+NET "key0" LOC = P147;
+NET "key1" LOC = P146;
+NET "key2" LOC = P144;
+NET "key3" LOC = P143;
+NET "rst" LOC = P21;
